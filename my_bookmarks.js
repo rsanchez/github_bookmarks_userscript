@@ -1,1 +1,0 @@
-["/michael/multiselect","/neteye/jquery-plugins","/harvesthq/chosen","/jcubic/jquery.terminal","/mvriel/Docblox","/alexgibson/WKShake","/echonest/php-echonest-api","/zurb/reveal","/rs/SafariOmnibar"]
