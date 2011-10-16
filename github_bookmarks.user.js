@@ -56,7 +56,7 @@ var githubBookmarks = {
 				}
 			});
 			
-			$(".repohead .title-actions-bar ul.actions").prepend(button);
+			$(".repohead .title-actions-bar ul.pagehead-actions").prepend(button);
 		}
 		
 		/* ADD BOOKMARKED REPOS LIST */
